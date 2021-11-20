@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Швидкий доступ до розкладу заннять 'ІФК'",
+  "description": "Швидкий доступ до розкладу заннять 'ІФК', навчального порталу та сайту коледжу.",
+  "version": "1.0.0",
+  "author": "Maksym Tolstykh",
+  "browser_action": {
+    "default_title": "Швидкий доступ до розкладу заннять 'ІФК'",
+    "default_icon": "logo.png",
+    "default_popup": "timetable.html"
+  },
+  "permissions": []
+}
