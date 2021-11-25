@@ -1,7 +1,8 @@
 # IFK timetable `v1.0`
-## Нажаль політика Google не дозволяє в магазин публікувати розширення в яких є посилання на сторонні ресурси які не є частиною розширення. :(
+## Нажаль політика Google не дозволяє в магазин публікувати розширення в яких є посилання на сторонні ресурси,тобто які не є частиною розширення.
 
 ![alt text](https://raw.githubusercontent.com/maxbutcher1/maxbutcher1.github.io/main/photoForExtension/screen.png)
+![alt text](https://raw.githubusercontent.com/maxbutcher1/maxbutcher1.github.io/main/photoForExtension/s7.png)
 
 ### `1.Скачати архів`
 
@@ -25,3 +26,4 @@
 і в меню яке з'явиться вибрати папку з розширенням.
 
 Тепер все готов для користування розширенням яке сподіваюся допоможе швидше отримувати доступ до потрібних ресурсів коледжу.
+![s6](https://raw.githubusercontent.com/maxbutcher1/maxbutcher1.github.io/main/photoForExtension/s6.png)
