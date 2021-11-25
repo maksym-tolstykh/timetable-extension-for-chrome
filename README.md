@@ -8,4 +8,4 @@
 
 ### `2.Браузер Chrome`
 
-Перейти за посиланям яке приведе список де показуються всі ваші розширення для Chrome ![chrome://extensions/](chrome://extensions/)
+Перейти за посиланям яке приведе список де показуються всі ваші розширення для Chrome [chrome://extensions/](chrome://extensions/)
