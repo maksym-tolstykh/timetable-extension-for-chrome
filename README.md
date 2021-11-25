@@ -26,4 +26,5 @@
 і в меню яке з'явиться вибрати папку з розширенням.
 
 Тепер все готов для користування розширенням яке сподіваюся допоможе швидше отримувати доступ до потрібних ресурсів коледжу.
+
 ![s6](https://raw.githubusercontent.com/maxbutcher1/maxbutcher1.github.io/main/photoForExtension/s6.png)
