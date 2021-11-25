@@ -12,6 +12,7 @@
 
 Перейти за посиланям яке приведе список де показуються всі ваші розширення для Chrome: chrome://extensions/
 Або прейти так як показано на малюнку:
+
 ![s3](https://raw.githubusercontent.com/maxbutcher1/maxbutcher1.github.io/main/photoForExtension/s3.png)
 
 ### `3.Додати розширення до свого браузеру`
