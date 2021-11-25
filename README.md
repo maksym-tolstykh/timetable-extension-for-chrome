@@ -12,3 +12,8 @@
 
 Або прейти так як показано на малюнку:
 ![s3](https://raw.githubusercontent.com/maxbutcher1/maxbutcher1.github.io/main/photoForExtension/s3.png)
+
+### `3.Додати розширення до свого браузеру`
+
+Далі потрібно перейти в режим розробника
+![s4](https://raw.githubusercontent.com/maxbutcher1/maxbutcher1.github.io/main/photoForExtension/s4.png)
