@@ -21,9 +21,9 @@
 Далі потрібно перейти в режим розробника
 ![s4](https://raw.githubusercontent.com/maxbutcher1/maxbutcher1.github.io/main/photoForExtension/s4.png)
 
-Потім нажати завантажити розпаковане розширення
+Потім нажати завантажити розпаковане розширення і в меню яке з'явиться вибрати папку з розширенням.
 ![s5](https://raw.githubusercontent.com/maxbutcher1/maxbutcher1.github.io/main/photoForExtension/s5.png)
-і в меню яке з'явиться вибрати папку з розширенням.
+
 
 Тепер все готов для користування розширенням яке сподіваюся допоможе швидше отримувати доступ до потрібних ресурсів коледжу.
 
