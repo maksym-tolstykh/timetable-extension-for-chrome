@@ -1,3 +1,4 @@
+![t](https://img.shields.io/github/languages/code-size/maxbutcher1/timetable-extension-for-chrome)
 # IFK timetable `v1.0`
 ## Нажаль політика Google не дозволяє в магазин публікувати розширення в яких є посилання на сторонні ресурси,тобто які не є частиною розширення.
 
