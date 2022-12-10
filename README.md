@@ -3,4 +3,3 @@
 ## Нажаль політика Google не дозволяє в магазин публікувати розширення в яких є посилання на сторонні ресурси,тобто які не є частиною розширення.
 
 ![alt text](https://raw.githubusercontent.com/maxbutcher1/maxbutcher1.github.io/main/photoForExtension/screen.png)
-![alt text](https://raw.githubusercontent.com/maxbutcher1/maxbutcher1.github.io/main/photoForExtension/s7.png)
